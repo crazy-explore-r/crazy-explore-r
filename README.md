@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ragul KM</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crazy-explore-r&label=Profile%20views&color=0e75b6&style=flat" alt="crazy-explore-r" /> </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazy-explore-r&" alt="crazy-explore-r" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crazy-explore-r" alt="crazy-explore-r" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crazy-explore-r&label=Profile%20views&color=0e75b6&style=flat" alt="crazy-explore-r" /> </p>
 
 <p align="left"> <a href="https://twitter.com/crazy_explore_r" target="blank"><img src="https://img.shields.io/twitter/follow/crazy_explore_r?logo=twitter&style=for-the-badge" alt="crazy_explore_r" /></a> </p>
 
@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crazy-explore-r&show_icons=true&locale=en" alt="crazy-explore-r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazy-explore-r&" alt="crazy-explore-r" /></p>
+
